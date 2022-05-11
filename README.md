@@ -6,4 +6,5 @@ Com esse projeto eu pude aprender mais sobre os eventos de tecla, identificando 
 
 Demonstração:
 
-<video src='video/video1.mp4'>
+<img src="images/img1.png">
+<img src="images/img2.png">
