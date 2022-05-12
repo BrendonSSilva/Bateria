@@ -9,4 +9,4 @@ Demonstração (link no final):
 <img src="images/img1.png">
 <img src="images/img2.png">
 
-Link: https://brendonssilva.github.io/Bateria/
+Link: <a target="_blank">https://brendonssilva.github.io/Bateria/</a>
